@@ -1,4 +1,4 @@
-# decentNews: A Decentralized News Platform
+# decentNews: A Decentralized News Platform 📰🚨
 
 ## Introduction
 
