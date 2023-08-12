@@ -2,7 +2,7 @@
 
 ## Introduction 🌐
 
-decentNews is a cutting-edge decentralized news platform created at ETHMunich Hackathon 🏆. It empowers anyone to publish articles 📝, which will then be reviewed by peers 🔍. Upon receiving enough validation, the articles will be published on the website 🌐. Both authors and reviewers can earn rewards 💰 for accurate content and reviews, or face penalties for malicious actions ❌. This process establishes a truly independent news platform, allowing for transparent, community-driven journalism that operates free from centralized control or bias 🗽.
+decentNews is a cutting-edge decentralized news platform created at **ETHMunich Hackathon** 🏆. It empowers anyone to publish articles 📝, which will then be reviewed by peers 🔍. Upon receiving enough validation, the articles will be published on the website 🌐. Both authors and reviewers can earn rewards 💰 for accurate content and reviews, or face penalties for malicious actions ❌. This process establishes a truly independent news platform, allowing for transparent, community-driven journalism that operates free from centralized control or bias 🗽.
 
 ## How It Works ⚙️
 
