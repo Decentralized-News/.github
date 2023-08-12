@@ -36,4 +36,4 @@ decentNews represents a bold step towards a more transparent, decentralized, and
 
 ## Links
 - Website: https://fedecentnews-git-main-decentnews.vercel.app/
-- Smart Contract (Sepolia): 0xe2084E0E85382c52937383f7776536114051A3a0
+- Smart Contract (Sepolia): [0xe2084E0E85382c52937383f7776536114051A3a0](https://sepolia.etherscan.io/address/0xe2084e0e85382c52937383f7776536114051a3a0)
