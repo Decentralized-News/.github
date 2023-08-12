@@ -33,3 +33,7 @@ decentNews is a cutting-edge decentralized news platform created at **ETHMunich 
 ## Conclusion 🎓
 
 decentNews represents a bold step towards a more transparent, decentralized, and democratic news publishing system 📢. By harnessing the power of blockchain and innovative technologies, it opens up a new avenue for unbiased and community-driven journalism 🌍.
+
+## Links
+Website: https://fedecentnews-git-main-decentnews.vercel.app/
+Smart Contract (Sepolia): 0xe2084E0E85382c52937383f7776536114051A3a0
